@@ -1,0 +1,1 @@
+/home/gear/rust-book/communicator/target/debug/libcommunicator.rlib: /home/gear/rust-book/communicator/src/client.rs /home/gear/rust-book/communicator/src/lib.rs /home/gear/rust-book/communicator/src/network/mod.rs /home/gear/rust-book/communicator/src/network/server.rs
